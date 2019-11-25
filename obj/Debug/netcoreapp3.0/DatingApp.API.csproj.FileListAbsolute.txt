@@ -52,3 +52,11 @@
 /Users/borisgrunwald/Desktop/programmering/dotnet/datingapp/DatingApp.API/bin/Debug/netcoreapp3.0/runtimes/win-x64/native/e_sqlite3.dll
 /Users/borisgrunwald/Desktop/programmering/dotnet/datingapp/DatingApp.API/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/borisgrunwald/Desktop/programmering/dotnet/datingapp/DatingApp.API/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/borisgrunwald/Desktop/programmering/dotnet/datingapp/DatingApp.API/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/borisgrunwald/Desktop/programmering/dotnet/datingapp/DatingApp.API/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/borisgrunwald/Desktop/programmering/dotnet/datingapp/DatingApp.API/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Logging.dll
+/Users/borisgrunwald/Desktop/programmering/dotnet/datingapp/DatingApp.API/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Protocols.dll
+/Users/borisgrunwald/Desktop/programmering/dotnet/datingapp/DatingApp.API/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/borisgrunwald/Desktop/programmering/dotnet/datingapp/DatingApp.API/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Tokens.dll
+/Users/borisgrunwald/Desktop/programmering/dotnet/datingapp/DatingApp.API/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/borisgrunwald/Desktop/programmering/dotnet/datingapp/DatingApp.API/bin/Debug/netcoreapp3.0/System.IdentityModel.Tokens.Jwt.dll

@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DatingApp.API.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20191124155855_AddedUserEntity")]
-    partial class AddedUserEntity
+    [Migration("20191125101633_initial")]
+    partial class initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -22,9 +22,6 @@ namespace DatingApp.API.Migrations
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("INTEGER");
-
-                    b.Property<int>("MyPropert")
                         .HasColumnType("INTEGER");
 
                     b.Property<byte[]>("PasswordHash")
